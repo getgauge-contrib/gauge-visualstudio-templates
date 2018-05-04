@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="Gauge.VisualStudio.Templates.9122543E-2F9D-4643-9303-56362C084ECF" Version="1.0" Language="en-US" Publisher="getgauge" />
+    <Identity Id="Gauge.VisualStudio.Templates.9122543E-2F9D-4643-9303-56362C084ECF" Version="1.1" Language="en-US" Publisher="getgauge" />
     <DisplayName>Gauge.VisualStudio.Templates</DisplayName>
     <Description xml:space="preserve">Gauge project templates for Visual Studio. Requires Gauge with gauge-csharp plugin and Gauge plugin for VisualStudio</Description>
     <License>LICENSE.txt</License>
